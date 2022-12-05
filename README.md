@@ -1,6 +1,8 @@
 # firebase_crud
 
-Flutter CRUD With Firebase
+## Template app 
+
+Template app (Both frontend and backend) created with Flutter and Firebase and  contains all CRUD operations.
 
 ## Getting Started
 
